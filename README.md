@@ -5,10 +5,10 @@ Always excited to expand my knowledge in new challenges!
 <br><br>
 Living with a motto - "When you start it, you GET IT DONE!"
 _______________________________________
-🔭 My latest projects:
-- https://github.com/baiba92/Rick-and-Morty
-- https://github.com/baiba92/GIPHY-page
-- https://github.com/baiba92/Articles-site
+### 🔭 My latest projects:
+- [Rick and Morty](https://github.com/baiba92/Rick-and-Morty) check out different characters, episodes and locations from popular TV show "Rick and Morty". (Implemented cache system, routing, MVC pattern)
+- [GIFINATOR](https://github.com/baiba92/GIPHY-page) search for gifs from GIPHY library using keywords of your choice (Implemented routing, MVC pattern)
+- [Articles site](https://github.com/baiba92/Articles-site) template webpage for blog/news site, using placeholder texts and images (Implemented cache system, routing, MVC pattern)
 
 _______________________________________
 
