@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Baiba!
 _______________________________________
-I'm a software developer, currently digging deep into PHP. Result-orinted person with good communication and time management skills.<br>
+I'm a software developer, currently digging deep into PHP. Result-oriented person with good communication and time management skills.<br>
 Always excited to expand my knowledge in new challenges!
 <br><br>
 Living with a motto - "When you start it, you GET IT DONE!"
