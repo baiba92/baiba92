@@ -12,7 +12,7 @@ _______________________________________
 
 _______________________________________
 
-Reach me &nbsp; <a target="_blank" href="https://www.linkedin.com/in/baibaelste/"><img style="width: 30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-recvt9tg.png" alt="linkedin"></a>
+### Reach me &nbsp; <a target="_blank" href="https://www.linkedin.com/in/baibaelste/"><img style="width: 30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-recvt9tg.png" alt="linkedin"></a>
 
 <!--
 **baiba92/baiba92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
